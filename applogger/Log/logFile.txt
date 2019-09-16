@@ -2,8 +2,8 @@
 <!DOCTYPE log SYSTEM "logger.dtd">
 <log>
 <record>
-  <date>2019-09-16T13:46:35</date>
-  <millis>1568659595558</millis>
+  <date>2019-09-16T14:24:16</date>
+  <millis>1568661856318</millis>
   <sequence>3</sequence>
   <logger>class dao.impl.LogFileDaoImpl</logger>
   <level>INFO</level>
